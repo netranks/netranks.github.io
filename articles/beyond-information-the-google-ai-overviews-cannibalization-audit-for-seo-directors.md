@@ -1,6 +1,7 @@
 ---
 title: "Beyond Information: The Google AI Overviews Cannibalization Audit for SEO Directors"
 description: "For nearly two decades, the social contract of search was simple: users asked questions, and Google provided a list of blue links. SEO directors built..."
+date: 2026-01-09
 tags: ["AI", "SEO", "GEO", "Gemini", "Brand Management", "Marketing"]
 ---
 
@@ -18,7 +19,7 @@ To understand the necessity of a content audit, we must first look at the data. 
 
 Search Engine Land notes that while these overviews do provide citations, the user behavior is shifting toward a 'zero-click' experience for informational queries. The risk is highest for 'middle-of-the-funnel' and 'top-of-the-funnel' content that relies on common knowledge. If your content can be summarized by an LLM that has read the entire internet, your organic traffic is a 'lost cause.' 
 
-We are seeing a divide between 'commodity information'—which Google will now provide for free—and 'proprietary insight,' which remains the last bastion of human-driven search traffic. For SEO Directors at mid-to-large publishers, the goal is no longer just to rank; it is to remain 'un-summarizable.' This requires a tactical framework to inventory your content and decide which pages need a radical pivot.
+We are seeing a divide between 'commodity information,' which Google will now provide for free, and 'proprietary insight,' which remains the last bastion of human-driven search traffic. For SEO Directors at mid-to-large publishers, the goal is no longer just to rank; it is to remain 'un-summarizable.' This requires a tactical framework to inventory your content and decide which pages need a radical pivot.
 
 ## The AIO Cannibalization Matrix: A Framework for Survival
 
@@ -48,9 +49,9 @@ Once you have identified your high-risk content, the next step is the pivot. The
 
 As the traditional SERP changes, so must our measurement of success. We are moving from the era of Search Engine Optimization (SEO) into the era of **Generative Engine Optimization (GEO)**. Search Engine Journal highlights that the focus is shifting toward becoming a cited source within the AI Overview block. This requires a different set of technical and creative skills.
 
-You must ensure your content is structured in a way that LLMs can easily parse, using clear headers and schema markup, while simultaneously ensuring the content is so unique that it earns a 'mention.' Platforms such as **netranks** address this by providing a visibility command center, allowing SEO directors to see exactly where their brand is being cited—and where it's being erased—across Gemini and other generative engines.
+You must ensure your content is structured in a way that LLMs can easily parse, using clear headers and schema markup, while simultaneously ensuring the content is so unique that it earns a 'mention.' Platforms such as **netranks** address this by providing a visibility command center, allowing SEO directors to see exactly where their brand is being cited, and where it is being erased, across Gemini and other generative engines.
 
-Monitoring your 'Share of Voice' within the AI Overview is becoming more important than monitoring your position in the blue links. If you are cited in the overview, you still get the brand impression and a potential high-intent click, even if the total traffic volume to the page decreases. You should also start tracking 'Citation Quality'—is the AI correctly representing your brand's perspective, or is it hallucinating? Measuring this gap is critical for maintaining brand equity in an AI-driven search world.
+Monitoring your 'Share of Voice' within the AI Overview is becoming more important than monitoring your position in the blue links. If you are cited in the overview, you still get the brand impression and a potential high-intent click, even if the total traffic volume to the page decreases. You should also start tracking 'Citation Quality.' Is the AI correctly representing your brand's perspective, or is it hallucinating? Measuring this gap is critical for maintaining brand equity in an AI-driven search world.
 
 ## The Practical Audit: Step-by-Step Execution
 

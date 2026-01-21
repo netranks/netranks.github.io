@@ -1,6 +1,7 @@
 ---
 title: "Benchmarking Brand Narrative: Quantifying Narrative Drift and Latent Persona Across LLMs"
 description: "The landscape of brand discovery is undergoing a seismic transformation. **Gartner** predicts a 25% drop in traditional search engine volume by 2026 as..."
+date: 2026-01-06
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Gemini", "Brand Management"]
 ---
 
@@ -24,7 +25,7 @@ One model might prioritize your latest CSR initiative, while another focuses on 
 
 Rather than viewing LLMs solely as distribution channels, forward-thinking data scientists are treating them as massive, automated digital focus groups. By analyzing the **'Latent Brand Persona,'** we can map the linguistic DNA of a brand. This involves looking at adjective clusters, metaphorical associations, and the underlying 'vibe' of the AI response.
 
-As *Adweek* notes, brand readiness for GenAI search isn't just about keywords—it's about the consistent sentiment the model associates with the brand. To analyze this, we look at 'Adjective Clusters.' Does ChatGPT consistently associate your brand with words like 'agile' and 'disruptive,' while Claude uses terms like 'institutional' and 'reliable'? These aren't just synonyms; they represent a fundamental difference in how your brand is perceived in the model's latent space. By mapping these clusters, brands can identify 'persona gaps' where the AI narrative deviates significantly from the intended brand guidelines.
+As *Adweek* notes, brand readiness for GenAI search isn't just about keywords. It is about the consistent sentiment the model associates with the brand. To analyze this, we look at 'Adjective Clusters.' Does ChatGPT consistently associate your brand with words like 'agile' and 'disruptive,' while Claude uses terms like 'institutional' and 'reliable'? These aren't just synonyms; they represent a fundamental difference in how your brand is perceived in the model's latent space. By mapping these clusters, brands can identify 'persona gaps' where the AI narrative deviates significantly from the intended brand guidelines.
 
 ### Quantifying the Linguistic DNA: A Framework for Analysis
 

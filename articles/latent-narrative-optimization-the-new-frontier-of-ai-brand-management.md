@@ -1,6 +1,7 @@
 ---
 title: "Latent Narrative Optimization: The New Frontier of AI Brand Management"
 description: "For two decades, the digital marketing landscape was governed by the logic of the index. Brands fought for visibility in a linear list of blue links,..."
+date: 2026-01-21
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Gemini", "Brand Management"]
 ---
 
@@ -14,9 +15,9 @@ When a user asks about a brand, the AI synthesizes a character profile, a 'vibe,
 
 ## The Content Gap: Why GEO Alone is Insufficient
 
-Current discussions around Generative Engine Optimization (GEO) are largely transactional. Research from Cornell University (arXiv) highlights strategies like adding authoritative citations and technical terms to increase the likelihood of being mentioned. While these tactics are essential for visibility, they often ignore the qualitative nuance of the brand's identity. Most current frameworks treat AI sentiment as a binary—positive or negative. But modern brand management is far more granular.
+Current discussions around Generative Engine Optimization (GEO) are largely transactional. Research from Cornell University (arXiv) highlights strategies like adding authoritative citations and technical terms to increase the likelihood of being mentioned. While these tactics are essential for visibility, they often ignore the qualitative nuance of the brand's identity. Most current frameworks treat AI sentiment as a binary, either positive or negative. But modern brand management is far more granular.
 
-A luxury brand doesn't just want a 'positive' mention; it needs a mention that conveys exclusivity, craftsmanship, and heritage. A fintech startup doesn't just want to be 'favorable'; it needs to be seen as 'disruptive' yet 'secure.' There is a significant lack of actionable frameworks for measuring and influencing this specific descriptive character. We call this the 'narrative gap.' To bridge it, brands must move beyond 'Share of Model'—the percentage of time an LLM mentions a brand—and toward 'Attribute Proximity.' This involves understanding how an LLM perceives the brand’s location within its internal semantic map and strategically shifting those coordinates to align with desired brand pillars. Without a structured approach to narrative intelligence, brands risk being defined by the chaotic consensus of their historical data rather than their current strategic vision.
+A luxury brand doesn't just want a 'positive' mention; it needs a mention that conveys exclusivity, craftsmanship, and heritage. A fintech startup doesn't just want to be 'favorable'; it needs to be seen as 'disruptive' yet 'secure.' There is a significant lack of actionable frameworks for measuring and influencing this specific descriptive character. We call this the 'narrative gap.' To bridge it, brands must move beyond 'Share of Model,' the percentage of time an LLM mentions a brand, and toward 'Attribute Proximity.' This involves understanding how an LLM perceives the brand’s location within its internal semantic map and strategically shifting those coordinates to align with desired brand pillars. Without a structured approach to narrative intelligence, brands risk being defined by the chaotic consensus of their historical data rather than their current strategic vision.
 
 ## The Semantic Delta Framework: Brand Management as Vector Optimization
 
@@ -42,7 +43,7 @@ Furthermore, monitoring these shifts is critical for modern strategy. Platforms 
 
 To begin your journey into Latent Narrative Optimization, you must first establish a baseline. A Semantic Audit involves three key phases:
 
-1.  **Extraction:** Use multiple generative models to describe your brand in various contexts—ask for a 50-word summary, a SWOT analysis, and a comparison with competitors.
+1.  **Extraction:** Use multiple generative models to describe your brand in various contexts. Ask for a 50-word summary, a SWOT analysis, and a comparison with competitors.
 2.  **Mapping:** Identify the recurring adjectives, metaphors, and associations the AI uses. Group these into 'attribute clusters.'
 3.  **Delta Analysis:** Compare these clusters against your internal brand guidelines. Identify which associations are 'legacy' (outdated), which are 'hallucinations' (incorrect), and which are 'aligned' (desired).
 

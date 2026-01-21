@@ -1,6 +1,7 @@
 ---
 title: "AI Search Optimization for Local Businesses: A Region-Specific Guide"
 description: "In today’s digital landscape, local businesses are increasingly challenged to enhance their visibility in AI-driven search results. As consumers turn to..."
+date: 2026-01-01
 tags: ["AI", "SEO", "GEO", "Brand Management", "Analytics", "Local SEO"]
 ---
 

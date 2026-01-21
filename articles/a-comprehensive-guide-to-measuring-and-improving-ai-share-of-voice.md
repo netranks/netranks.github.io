@@ -1,6 +1,7 @@
 ---
 title: "A Comprehensive Guide to Measuring and Improving AI Share-of-Voice"
 description: "In today’s digital landscape, the rise of AI-powered search engines such as ChatGPT and Gemini has transformed how consumers access information. As brands..."
+date: 2026-01-03
 tags: ["AI", "SEO", "ChatGPT", "Gemini", "Brand Management", "Marketing"]
 ---
 

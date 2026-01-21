@@ -1,6 +1,7 @@
 ---
 title: "Beyond the Click: Mastering SearchGPT with the Citation Equity Framework"
 description: "The digital marketing landscape reached a definitive turning point on July 25, 2024, when OpenAI announced its SearchGPT prototype. For decades, SEO has..."
+date: 2026-01-19
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "SearchGPT"]
 ---
 
@@ -20,7 +21,7 @@ Citation Equity is the measure of how often, and how prominently, an AI model se
 
 ## The Technical Conflict: OAI-SearchBot vs. GPTBot
 
-A critical technical gap in current SEO discourse is the management of OpenAI’s distinct crawlers. Many brands, concerned with IP protection, have blanket-blocked 'GPTBot,' the crawler used to train large language models. However, the introduction of 'OAI-SearchBot'—the crawler specifically designed for SearchGPT—creates a strategic paradox. 
+A critical technical gap in current SEO discourse is the management of OpenAI’s distinct crawlers. Many brands, concerned with IP protection, have blanket-blocked 'GPTBot,' the crawler used to train large language models. However, the introduction of 'OAI-SearchBot,' the crawler specifically designed for SearchGPT, creates a strategic paradox. 
 
 As Search Engine Land points out, OpenAI allows publishers to manage these separately. If you block both, you vanish from the most significant AI search interface currently in development. SEO strategists must now implement a nuanced robots.txt policy that protects high-value intellectual property from training sets while aggressively inviting OAI-SearchBot to index product pages, price lists, and service descriptions. 
 
