@@ -1,3 +1,9 @@
+---
+title: "Beyond Information: The Google AI Overviews Cannibalization Audit for SEO Directors"
+description: "For nearly two decades, the social contract of search was simple: users asked questions, and Google provided a list of blue links. SEO directors built..."
+tags: ["AI", "SEO", "GEO", "Gemini", "Brand Management", "Marketing"]
+---
+
 # Beyond Information: The Google AI Overviews Cannibalization Audit for SEO Directors
 
 For nearly two decades, the social contract of search was simple: users asked questions, and Google provided a list of blue links. SEO directors built massive traffic engines by answering those questions more clearly than their competitors. However, the official rollout of **Google AI Overviews** (formerly SGE) at Google I/O 2024 has fundamentally broken this contract. As TechCrunch reported, Google's vision has shifted toward 'doing the Googling for you,' utilizing the Gemini model to synthesize complex information into a single, cohesive block at the top of the search results.

@@ -1,3 +1,9 @@
+---
+title: "The GEO Attribution Playbook: How to Measure and Scale Your LLM Share of Voice"
+description: "For two decades, the digital marketing world was governed by a simple, predictable funnel: a user typed a query, a search engine provided a list of links,..."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
+---
+
 # The GEO Attribution Playbook: How to Measure and Scale Your LLM Share of Voice
 
 For two decades, the digital marketing world was governed by a simple, predictable funnel: a user typed a query, a search engine provided a list of links, and the user clicked. Success was measured in click-through rates (CTR) and organic traffic. However, we have entered a post-click era. With the rise of Large Language Models (LLMs) and Generative AI, the paradigm has shifted from 'search and browse' to 'ask and receive.' Users are no longer navigating to your website to find answers; they are receiving those answers directly within the interfaces of ChatGPT, Claude, and Perplexity. This shift creates a massive attribution gap for SEO directors and marketing managers who are seeing their traditional organic traffic stagnate while their brand mentions in AI responses grow in a 'black box.'

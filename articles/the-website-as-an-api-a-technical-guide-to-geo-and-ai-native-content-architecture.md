@@ -1,3 +1,9 @@
+---
+title: "The Website-as-an-API: A Technical Guide to GEO and AI-Native Content Architecture"
+description: "For two decades, web architecture was a dialogue between human users and Google’s crawlers. We optimized for PageRank, keywords, and Core Web Vitals...."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Brand Management"]
+---
+
 # The Website-as-an-API: A Technical Guide to GEO and AI-Native Content Architecture
 
 ## The Shift from Search Engines to Generative Engines

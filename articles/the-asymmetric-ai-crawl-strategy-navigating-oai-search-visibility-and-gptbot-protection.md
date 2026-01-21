@@ -1,3 +1,9 @@
+---
+title: "The Asymmetric AI Crawl Strategy: Navigating OAI-Search Visibility and GPTBot Protection"
+description: "For the past decade, the relationship between webmasters and search engines was governed by a simple, binary pact: allow the crawler and receive the..."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Gemini", "SearchGPT"]
+---
+
 # The Asymmetric AI Crawl Strategy: Navigating OAI-Search Visibility and GPTBot Protection
 
 ## Introduction: The New Era of Selective Permissibility

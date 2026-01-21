@@ -1,3 +1,9 @@
+---
+title: "Beyond the Snapshot: A Probabilistic Framework for Measuring AI Share-of-Voice"
+description: "For decades, digital marketing has relied on the comforting certainty of deterministic data. If a keyword ranked third on Google yesterday, it likely..."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
+---
+
 # Beyond the Snapshot: A Probabilistic Framework for Measuring AI Share-of-Voice
 
 ## The Non-Deterministic Nightmare: Why Your AI Strategy is Flying Blind

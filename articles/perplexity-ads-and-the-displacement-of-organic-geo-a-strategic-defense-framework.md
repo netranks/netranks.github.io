@@ -1,3 +1,9 @@
+---
+title: "Perplexity Ads and the Displacement of Organic GEO: A Strategic Defense Framework"
+description: "For the past year, the digital marketing world has viewed Generative Engine Optimization (GEO) as the pure, organic frontier of search. Unlike the..."
+tags: ["AI", "SEO", "GEO", "Perplexity", "Brand Management", "Marketing"]
+---
+
 # Perplexity Ads and the Displacement of Organic GEO: A Strategic Defense Framework
 
 ## The Dawn of the Sponsored AI Era

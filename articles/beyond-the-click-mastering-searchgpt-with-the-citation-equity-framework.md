@@ -1,3 +1,9 @@
+---
+title: "Beyond the Click: Mastering SearchGPT with the Citation Equity Framework"
+description: "The digital marketing landscape reached a definitive turning point on July 25, 2024, when OpenAI announced its SearchGPT prototype. For decades, SEO has..."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "SearchGPT"]
+---
+
 # Beyond the Click: Mastering SearchGPT with the Citation Equity Framework
 
 ## The Death of the Ten Blue Links: Why SearchGPT Changes Everything

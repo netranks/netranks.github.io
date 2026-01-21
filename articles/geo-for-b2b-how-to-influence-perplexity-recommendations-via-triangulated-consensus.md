@@ -1,3 +1,9 @@
+---
+title: "GEO for B2B: How to Influence Perplexity Recommendations via Triangulated Consensus"
+description: "For over two decades, the B2B marketing playbook was clear: win the keyword, win the click, and win the lead. However, the rise of generative engines like..."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
+---
+
 # GEO for B2B: How to Influence Perplexity Recommendations via Triangulated Consensus
 
 ## The Death of the Search Result and the Rise of the Synthetic Recommendation

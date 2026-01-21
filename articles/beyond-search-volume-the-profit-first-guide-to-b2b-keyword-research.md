@@ -1,3 +1,9 @@
+---
+title: "Beyond Search Volume: The Profit-First Guide to B2B Keyword Research"
+description: "Most B2B marketing managers have experienced a frustrating paradox: organic traffic is climbing, yet the sales pipeline remains stagnant. This disconnect..."
+tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
+---
+
 # Beyond Search Volume: The Profit-First Guide to B2B Keyword Research
 
 Most B2B marketing managers have experienced a frustrating paradox: organic traffic is climbing, yet the sales pipeline remains stagnant. This disconnect often stems from a fundamental misunderstanding of keyword value. Traditional keyword research, as outlined by industry giants like Ahrefs and Moz, focuses heavily on quantitative metrics like search volume and Keyword Difficulty (KD). While these metrics are essential for broad-market reach or ad-supported media sites, they often mislead B2B organizations where a single lead can be worth six or seven figures.
