@@ -1,0 +1,67 @@
+# Site settings
+title: NetRanks Blog
+description: "Expert insights on AI Search Optimization, Generative Engine Optimization (GEO), and Brand Visibility in the age of ChatGPT, Perplexity, Gemini, and SearchGPT."
+url: "https://netranks.github.io"
+baseurl: ""
+logo: /assets/images/netranks-logo.png
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Theme - using supported GitHub Pages theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins (all on GitHub Pages supported list)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-readme-index
+
+# SEO and social sharing
+author: NetRanks
+twitter:
+  username: netranks
+  card: summary_large_image
+social:
+  name: NetRanks
+  links:
+    - https://netranks.ai
+
+# Open Graph image for social sharing
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/netranks-logo.png
+  - scope:
+      path: "articles"
+    values:
+      layout: default
+      image: /assets/images/netranks-logo.png
+
+# Relative links settings
+relative_links:
+  enabled: true
+  collections: true
+
+# Titles from headings
+titles_from_headings:
+  enabled: true
+  strip_title: true
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
