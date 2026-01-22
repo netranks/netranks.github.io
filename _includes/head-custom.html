@@ -1,36 +1,49 @@
 <style>
-  /* Expand main content width */
+  /* Use flexbox for proper layout without overlap */
   .wrapper {
-    max-width: 1200px;
+    max-width: 1400px;
     width: 95%;
     margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
   }
 
-  /* Make the section (main content) wider */
-  section {
-    width: 75%;
-    float: right;
-  }
-
-  /* Adjust header/sidebar */
+  /* Sidebar stays fixed width */
   header {
-    width: 22%;
+    flex: 0 0 250px;
+    width: 250px;
+    float: none;
   }
 
-  /* Responsive adjustments */
-  @media screen and (max-width: 992px) {
+  /* Main content takes remaining space */
+  section {
+    flex: 1;
+    min-width: 0;
+    float: none;
+    width: auto;
+  }
+
+  /* Footer spans full width */
+  footer {
+    flex: 0 0 100%;
+    width: 100%;
+  }
+
+  /* Stack vertically on smaller screens */
+  @media screen and (max-width: 768px) {
     .wrapper {
-      width: 90%;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    header {
+      flex: 0 0 auto;
+      width: 100%;
     }
 
     section {
       width: 100%;
-      float: none;
-    }
-
-    header {
-      width: 100%;
-      float: none;
     }
   }
 </style>
