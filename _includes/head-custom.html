@@ -1,49 +1,69 @@
 <style>
-  /* Use flexbox for proper layout without overlap */
+  /* Reset theme's problematic positioning */
+  body {
+    margin: 0;
+    padding: 20px;
+  }
+
   .wrapper {
-    max-width: 1400px;
-    width: 95%;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px;
-  }
-
-  /* Sidebar stays fixed width */
-  header {
-    flex: 0 0 250px;
-    width: 250px;
-    float: none;
-  }
-
-  /* Main content takes remaining space */
-  section {
-    flex: 1;
-    min-width: 0;
-    float: none;
-    width: auto;
-  }
-
-  /* Footer spans full width */
-  footer {
-    flex: 0 0 100%;
+    max-width: 1200px;
     width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative;
+    display: block;
   }
 
-  /* Stack vertically on smaller screens */
-  @media screen and (max-width: 768px) {
-    .wrapper {
-      flex-direction: column;
-      gap: 20px;
-    }
+  /* Header as a top banner, not sidebar */
+  header {
+    position: relative !important;
+    width: 100% !important;
+    float: none !important;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #e1e4e8;
+  }
 
-    header {
-      flex: 0 0 auto;
-      width: 100%;
-    }
+  header img {
+    max-width: 200px;
+    height: auto;
+  }
 
-    section {
-      width: 100%;
-    }
+  header p {
+    max-width: 600px;
+    margin: 10px auto;
+  }
+
+  /* Main content full width */
+  section {
+    position: relative !important;
+    width: 100% !important;
+    float: none !important;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-bottom: 80px;
+  }
+
+  /* Footer at bottom, no overlap */
+  footer {
+    position: relative !important;
+    width: 100% !important;
+    float: none !important;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+    border-top: 1px solid #e1e4e8;
+    clear: both;
+  }
+
+  /* Ensure tables don't overflow */
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  td, th {
+    word-wrap: break-word;
   }
 </style>
