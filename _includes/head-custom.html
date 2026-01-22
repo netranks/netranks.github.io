@@ -1,3 +1,76 @@
+<!-- Favicon -->
+<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/netranks-logo.png' | relative_url }}">
+
+<!-- Additional SEO Meta Tags -->
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- RSS Feed -->
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+
+<!-- Theme Color -->
+<meta name="theme-color" content="#0066cc">
+<meta name="msapplication-TileColor" content="#0066cc">
+
+<!-- Additional Open Graph -->
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Additional -->
+<meta name="twitter:site" content="@netranks">
+
+<!-- Schema.org for Google -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "NetRanks",
+  "url": "https://netranks.ai",
+  "logo": "{{ '/assets/images/netranks-logo.png' | absolute_url }}",
+  "description": "{{ site.description }}",
+  "sameAs": [
+    "https://twitter.com/netranks",
+    "https://netranks.ai"
+  ]
+}
+</script>
+
+{% if page.layout == 'article' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | truncate: 160 }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Organization",
+    "name": "NetRanks",
+    "url": "https://netranks.ai"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "NetRanks",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ '/assets/images/netranks-logo.png' | absolute_url }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
+{% endif %}
+
 <style>
   /* Reset theme's problematic positioning */
   body {

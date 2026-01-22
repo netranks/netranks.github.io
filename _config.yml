@@ -1,9 +1,11 @@
 # Site settings
 title: NetRanks Blog
+tagline: "The command center for AI search visibility"
 description: "Expert insights on AI Search Optimization, Generative Engine Optimization (GEO), and Brand Visibility in the age of ChatGPT, Perplexity, Gemini, and SearchGPT."
 url: "https://netranks.github.io"
 baseurl: ""
 logo: /assets/images/netranks-logo.png
+lang: en_US
 
 # Build settings
 markdown: kramdown
@@ -25,14 +27,25 @@ plugins:
   - jekyll-readme-index
 
 # SEO and social sharing
-author: NetRanks
+author:
+  name: NetRanks
+  url: https://netranks.ai
+
 twitter:
   username: netranks
   card: summary_large_image
+
+facebook:
+  publisher: https://netranks.ai
+
 social:
   name: NetRanks
   links:
     - https://netranks.ai
+    - https://twitter.com/netranks
+
+# Open Graph settings
+og_image: /assets/images/netranks-og-image.png
 
 # Open Graph image for social sharing
 defaults:
@@ -43,7 +56,7 @@ defaults:
   - scope:
       path: "articles"
     values:
-      layout: default
+      layout: article
       image: /assets/images/netranks-logo.png
 
 # Relative links settings
