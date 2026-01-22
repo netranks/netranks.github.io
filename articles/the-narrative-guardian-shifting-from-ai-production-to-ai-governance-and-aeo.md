@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "The Narrative Guardian: Shifting from AI Production to AI Governance and AEO"
 description: "For the past eighteen months, the content marketing world has been obsessed with a single metric: velocity. As generative AI tools became ubiquitous, the..."
 date: 2026-01-10

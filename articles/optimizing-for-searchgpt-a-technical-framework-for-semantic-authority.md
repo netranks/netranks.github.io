@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "Optimizing for SearchGPT: A Technical Framework for Semantic Authority"
 description: "The launch of the SearchGPT prototype on July 25, 2024, by OpenAI marked more than just a new product release; it signaled a paradigm shift in how..."
 date: 2026-01-20

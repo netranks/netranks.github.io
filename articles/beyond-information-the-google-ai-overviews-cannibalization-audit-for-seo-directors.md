@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "Beyond Information: The Google AI Overviews Cannibalization Audit for SEO Directors"
 description: "For nearly two decades, the social contract of search was simple: users asked questions, and Google provided a list of blue links. SEO directors built..."
 date: 2026-01-09

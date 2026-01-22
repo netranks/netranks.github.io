@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "The Impact of AI Search on E-commerce Sales: Navigating Brand Visibility and Consumer Trust"
 description: "In recent years, artificial intelligence (AI) has reshaped various aspects of our lives, including how we shop online. E-commerce giants like Amazon and..."
 date: 2025-12-29

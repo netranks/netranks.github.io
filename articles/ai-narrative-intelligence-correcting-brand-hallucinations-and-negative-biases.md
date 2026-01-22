@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "AI Narrative Intelligence: Correcting Brand Hallucinations and Negative Biases"
 description: "In the previous era of digital marketing, a brand’s reputation was largely defined by what appeared on the first page of Google search results. Today,..."
 date: 2026-01-12

@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "The Website-as-an-API: A Technical Guide to GEO and AI-Native Content Architecture"
 description: "For two decades, web architecture was a dialogue between human users and Google’s crawlers. We optimized for PageRank, keywords, and Core Web Vitals...."
 date: 2026-01-07

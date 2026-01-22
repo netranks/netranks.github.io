@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "The Algorithmic Reputation Audit: Navigating Generative Reputation Management in the AI Era"
 description: "For over a decade, the playbook for brand reputation management has been centered on a reactive 'Listen, Analyze, Act' framework. Marketing teams have..."
 date: 2026-01-05
