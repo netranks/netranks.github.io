@@ -3,6 +3,7 @@ layout: article
 title: "Model-Specific Bias Analysis: Why Claude, ChatGPT, and Gemini Describe Your Brand Differently"
 description: "Learn why ChatGPT, Claude, and Gemini create different brand narratives and how to use the Data Nutrition Matrix to influence AI-generated reputation."
 date: 2026-01-23
+last_modified_at: 2026-01-23
 tags: ["AI Marketing", "Reputation Management", "Brand Strategy", "SEO"]
 ---
 
