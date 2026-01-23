@@ -3,6 +3,7 @@ layout: article
 title: "Your Guide to Monitoring Brand Mentions Across AI Platforms"
 description: "In today's digital age, the rise of artificial intelligence (AI) has transformed how brands interact with their audiences. With AI-generated content..."
 date: 2025-12-28
+last_modified_at: 2025-12-28
 tags: ["AI", "ChatGPT", "Gemini", "Brand Management", "Marketing", "Analytics"]
 ---
 

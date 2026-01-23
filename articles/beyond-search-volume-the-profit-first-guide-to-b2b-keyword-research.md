@@ -3,6 +3,7 @@ layout: article
 title: "Beyond Search Volume: The Profit-First Guide to B2B Keyword Research"
 description: "Most B2B marketing managers have experienced a frustrating paradox: organic traffic is climbing, yet the sales pipeline remains stagnant. This disconnect..."
 date: 2025-12-31
+last_modified_at: 2025-12-31
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
 ---
 

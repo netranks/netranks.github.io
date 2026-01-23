@@ -3,6 +3,7 @@ layout: article
 title: "A Comprehensive Guide to Optimizing Content for AI Search Engines"
 description: "As artificial intelligence (AI) sweeps through the digital landscape, traditional SEO is facing a monumental shift. Gone are the days when simple keyword..."
 date: 2026-01-04
+last_modified_at: 2026-01-04
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
 ---
 

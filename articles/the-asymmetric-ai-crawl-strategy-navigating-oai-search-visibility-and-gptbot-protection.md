@@ -3,6 +3,7 @@ layout: article
 title: "The Asymmetric AI Crawl Strategy: Navigating OAI-Search Visibility and GPTBot Protection"
 description: "For the past decade, the relationship between webmasters and search engines was governed by a simple, binary pact: allow the crawler and receive the..."
 date: 2026-01-15
+last_modified_at: 2026-01-15
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Gemini", "SearchGPT"]
 ---
 

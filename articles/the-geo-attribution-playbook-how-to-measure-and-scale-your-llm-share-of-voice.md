@@ -3,6 +3,7 @@ layout: article
 title: "The GEO Attribution Playbook: How to Measure and Scale Your LLM Share of Voice"
 description: "For two decades, the digital marketing world was governed by a simple, predictable funnel: a user typed a query, a search engine provided a list of links,..."
 date: 2026-01-22
+last_modified_at: 2026-01-22
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
 ---
 

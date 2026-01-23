@@ -3,6 +3,7 @@ layout: article
 title: "The Executive Guide to Marketing ROI: Bridging the Gap Between Channel Metrics and Boardroom Value"
 description: "For years, a fundamental disconnect has existed between the marketing department and the executive suite. While marketing directors celebrate a 20%..."
 date: 2025-12-30
+last_modified_at: 2025-12-30
 tags: ["AI", "SEO", "ChatGPT", "Brand Management", "Marketing", "E-commerce"]
 ---
 

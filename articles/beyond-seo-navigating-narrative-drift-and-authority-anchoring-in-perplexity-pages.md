@@ -3,6 +3,7 @@ layout: article
 title: "Beyond SEO: Navigating Narrative Drift and Authority Anchoring in Perplexity Pages"
 description: "For decades, brand managers and PR directors have operated under the assumption that their corporate identity was something they could curate via their..."
 date: 2026-01-11
+last_modified_at: 2026-01-11
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Brand Management"]
 ---
 

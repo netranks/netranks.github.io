@@ -3,6 +3,7 @@ layout: article
 title: "Latent Narrative Optimization: The New Frontier of AI Brand Management"
 description: "For two decades, the digital marketing landscape was governed by the logic of the index. Brands fought for visibility in a linear list of blue links,..."
 date: 2026-01-21
+last_modified_at: 2026-01-21
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Gemini", "Brand Management"]
 ---
 

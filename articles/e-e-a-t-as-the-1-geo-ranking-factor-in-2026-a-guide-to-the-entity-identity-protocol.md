@@ -3,6 +3,7 @@ layout: article
 title: "E-E-A-T as the #1 GEO Ranking Factor in 2026: A Guide to the Entity-Identity Protocol"
 description: "By the year 2026, the digital landscape will have undergone a seismic shift that renders traditional search engine optimization almost unrecognizable...."
 date: 2026-01-18
+last_modified_at: 2026-01-18
 tags: ["AI", "SEO", "GEO", "Brand Management", "Marketing", "B2B"]
 ---
 
