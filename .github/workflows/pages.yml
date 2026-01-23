@@ -22,6 +22,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Add last_modified_at to articles missing it
+        run: |
+          for file in articles/*.md; do
+            if [ -f "$file" ]; then
+              # Check if last_modified_at already exists
+              if ! grep -q "^last_modified_at:" "$file"; then
+                # Extract the date value
+                date_value=$(grep "^date:" "$file" | head -1 | sed 's/date: *//')
+                if [ -n "$date_value" ]; then
+                  # Add last_modified_at after the date line
+                  sed -i "s/^date: .*/&\nlast_modified_at: $date_value/" "$file"
+                  echo "Added last_modified_at to $file"
+                fi
+              fi
+            fi
+          done
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
