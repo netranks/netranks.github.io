@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Static Benchmarking: The Predictive Intelligence Framework for Competitor Analysis"
 description: "For years, digital marketing managers have relied on a familiar playbook for competitor analysis: download a keyword gap report, export a backlink list,..."
-date: 2026-01-02
-last_modified_at: 2026-01-02
+date: 2025-12-29
+last_modified_at: 2025-12-29
 tags: ["AI", "SEO", "Brand Management", "Marketing", "B2B", "E-commerce"]
 ---
 

@@ -2,8 +2,8 @@
 layout: article
 title: "Attributing Revenue to Linkless AI Mentions: The 'Synthetic Lift' Framework for CMOs"
 description: "For over two decades, the Chief Marketing Officer's greatest ally has been the hyperlink. The click was the atomic unit of digital marketing, a trackable,..."
-date: 2026-01-13
-last_modified_at: 2026-01-13
+date: 2026-01-09
+last_modified_at: 2026-01-09
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
 ---
 

@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Citations: How to Optimize for the 2026 Agentic Commerce Revolution"
 description: "Move beyond citations to agent-actionable GEO. Learn how to build infrastructure for AI agents to execute transactions and drive ROI in 2026."
-date: 2026-01-23
-last_modified_at: 2026-01-23
+date: 2026-01-21
+last_modified_at: 2026-01-21
 tags: ["AI Strategy", "Future of Search", "Technical SEO", "E-commerce Growth"]
 ---
 

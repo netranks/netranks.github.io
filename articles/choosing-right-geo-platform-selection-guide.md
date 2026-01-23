@@ -2,7 +2,8 @@
 layout: article
 title: "Choosing the Right GEO Platform: A Strategic Guide to AI Remediation and Visibility"
 description: "A comprehensive guide for CMOs on selecting GEO platforms. Learn about AI remediation, citation health, and how to track brand share-of-voice in LLMs."
-date: 2026-01-23
+date: 2026-01-19
+last_modified_at: 2026-01-19
 tags: ["AI Marketing", "Digital Strategy", "SEO", "Enterprise Tech"]
 ---
 

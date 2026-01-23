@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Visibility: The AIO Click-Stealing Framework for Modern SEOs"
 description: "For nearly two decades, the formula for SEO success was binary: rank higher, get more clicks. However, the introduction of Google AI Overviews (AIO) has..."
-date: 2026-01-08
-last_modified_at: 2026-01-08
+date: 2026-01-04
+last_modified_at: 2026-01-04
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
 ---
 

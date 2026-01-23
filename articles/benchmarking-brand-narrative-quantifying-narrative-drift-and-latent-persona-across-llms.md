@@ -2,8 +2,8 @@
 layout: article
 title: "Benchmarking Brand Narrative: Quantifying Narrative Drift and Latent Persona Across LLMs"
 description: "The landscape of brand discovery is undergoing a seismic transformation. **Gartner** predicts a 25% drop in traditional search engine volume by 2026 as..."
-date: 2026-01-06
-last_modified_at: 2026-01-06
+date: 2026-01-02
+last_modified_at: 2026-01-02
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Gemini", "Brand Management"]
 ---
 

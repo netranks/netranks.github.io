@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond the Snapshot: A Probabilistic Framework for Measuring AI Share-of-Voice"
 description: "For decades, digital marketing has relied on the comforting certainty of deterministic data. If a keyword ranked third on Google yesterday, it likely..."
-date: 2026-01-16
-last_modified_at: 2026-01-16
+date: 2026-01-12
+last_modified_at: 2026-01-12
 tags: ["AI", "SEO", "GEO", "ChatGPT", "Perplexity", "Gemini"]
 ---
 

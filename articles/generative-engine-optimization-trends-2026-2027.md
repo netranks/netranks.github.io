@@ -2,7 +2,8 @@
 layout: article
 title: "The Agent-First Paradigm: Generative Engine Optimization Trends & Predictions for 2026-2027"
 description: "Explore the shift to Agentic SEO and Defensive GEO. Learn how to optimize for autonomous AI agents and maintain brand integrity in a clickless environment."
-date: 2026-01-23
+date: 2026-01-20
+last_modified_at: 2026-01-20
 tags: ["AI Marketing", "SEO Strategy", "Future of Search", "Digital Transformation"]
 ---
 
