@@ -5,18 +5,6 @@ description: "Expert guides on Generative Engine Optimization (GEO), AI Share-of
 image: /assets/images/netranks-logo.png
 ---
 
-<p align="center">
-  <a href="https://netranks.ai">
-    <img src="./assets/images/netranks-logo.png" alt="NetRanks" width="400">
-  </a>
-</p>
-
-<h2 align="center">The command center for AI search visibility.</h2>
-
-<p align="center">
-  <a href="https://netranks.ai"><strong>Visit NetRanks.ai</strong></a>
-</p>
-
 ---
 
 ## What is NetRanks?
