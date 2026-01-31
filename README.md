@@ -51,48 +51,48 @@ Generative Engine Optimization (GEO) is the discipline of optimizing your brand'
 ## Articles
 
 ### GEO Fundamentals
-- [The GEO Attribution Playbook](./articles/the-geo-attribution-playbook-how-to-measure-and-scale-your-llm-share-of-voice.md). How to measure and scale your LLM Share of Voice
-- [A Comprehensive Guide to Optimizing Content for AI Search Engines](./articles/a-comprehensive-guide-to-optimizing-content-for-ai-search-engines.md). Master AI-first content optimization
-- [E-E-A-T as the #1 GEO Ranking Factor in 2026](./articles/e-e-a-t-as-the-1-geo-ranking-factor-in-2026-a-guide-to-the-entity-identity-protocol.md). The Entity-Identity Protocol for next-gen search
+- [The GEO Attribution Playbook](./blog/the-geo-attribution-playbook-how-to-measure-and-scale-your-llm-share-of-voice.md). How to measure and scale your LLM Share of Voice
+- [A Comprehensive Guide to Optimizing Content for AI Search Engines](./blog/a-comprehensive-guide-to-optimizing-content-for-ai-search-engines.md). Master AI-first content optimization
+- [E-E-A-T as the #1 GEO Ranking Factor in 2026](./blog/e-e-a-t-as-the-1-geo-ranking-factor-in-2026-a-guide-to-the-entity-identity-protocol.md). The Entity-Identity Protocol for next-gen search
 
 ### SearchGPT & OpenAI
-- [Optimizing for SearchGPT](./articles/optimizing-for-searchgpt-a-technical-framework-for-semantic-authority.md). Technical framework for semantic authority
-- [Beyond the Click: The Citation Equity Framework](./articles/beyond-the-click-mastering-searchgpt-with-the-citation-equity-framework.md). Become the AI's preferred source
-- [The Asymmetric AI Crawl Strategy](./articles/the-asymmetric-ai-crawl-strategy-navigating-oai-search-visibility-and-gptbot-protection.md). OAI-Search visibility vs GPTBot protection
+- [Optimizing for SearchGPT](./blog/optimizing-for-searchgpt-a-technical-framework-for-semantic-authority.md). Technical framework for semantic authority
+- [Beyond the Click: The Citation Equity Framework](./blog/beyond-the-click-mastering-searchgpt-with-the-citation-equity-framework.md). Become the AI's preferred source
+- [The Asymmetric AI Crawl Strategy](./blog/the-asymmetric-ai-crawl-strategy-navigating-oai-search-visibility-and-gptbot-protection.md). OAI-Search visibility vs GPTBot protection
 
 ### Perplexity
-- [GEO for B2B: Influencing Perplexity](./articles/geo-for-b2b-how-to-influence-perplexity-recommendations-via-triangulated-consensus.md). Triangulated consensus for B2B visibility
-- [Navigating Narrative Drift in Perplexity Pages](./articles/beyond-seo-navigating-narrative-drift-and-authority-anchoring-in-perplexity-pages.md). Authority anchoring strategies
-- [Perplexity Ads: A Defense Framework](./articles/perplexity-ads-and-the-displacement-of-organic-geo-a-strategic-defense-framework.md). Strategic defense as paid ads enter GEO
+- [GEO for B2B: Influencing Perplexity](./blog/geo-for-b2b-how-to-influence-perplexity-recommendations-via-triangulated-consensus.md). Triangulated consensus for B2B visibility
+- [Navigating Narrative Drift in Perplexity Pages](./blog/beyond-seo-navigating-narrative-drift-and-authority-anchoring-in-perplexity-pages.md). Authority anchoring strategies
+- [Perplexity Ads: A Defense Framework](./blog/perplexity-ads-and-the-displacement-of-organic-geo-a-strategic-defense-framework.md). Strategic defense as paid ads enter GEO
 
 ### AI Share-of-Voice
-- [Measuring and Improving AI Share-of-Voice](./articles/a-comprehensive-guide-to-measuring-and-improving-ai-share-of-voice.md). Essential metrics for AI visibility
-- [Beyond the Snapshot: Probabilistic AI SoV](./articles/beyond-the-snapshot-a-probabilistic-framework-for-measuring-ai-share-of-voice.md). Move beyond deterministic measurement
-- [Attributing Revenue to Linkless AI Mentions](./articles/attributing-revenue-to-linkless-ai-mentions-the-synthetic-lift-framework-for-cmos.md). The 'Synthetic Lift' Framework for CMOs
+- [Measuring and Improving AI Share-of-Voice](./blog/a-comprehensive-guide-to-measuring-and-improving-ai-share-of-voice.md). Essential metrics for AI visibility
+- [Beyond the Snapshot: Probabilistic AI SoV](./blog/beyond-the-snapshot-a-probabilistic-framework-for-measuring-ai-share-of-voice.md). Move beyond deterministic measurement
+- [Attributing Revenue to Linkless AI Mentions](./blog/attributing-revenue-to-linkless-ai-mentions-the-synthetic-lift-framework-for-cmos.md). The 'Synthetic Lift' Framework for CMOs
 
 ### Brand Narrative & Reputation
-- [Latent Narrative Optimization](./articles/latent-narrative-optimization-the-new-frontier-of-ai-brand-management.md). AI brand management in generative search
-- [Correcting Brand Hallucinations](./articles/ai-narrative-intelligence-correcting-brand-hallucinations-and-negative-biases.md). Fix AI-generated misinformation
-- [Benchmarking Brand Narrative Across LLMs](./articles/benchmarking-brand-narrative-quantifying-narrative-drift-and-latent-persona-across-llms.md). Quantify narrative drift across models
-- [The Algorithmic Reputation Audit](./articles/the-algorithmic-reputation-audit-navigating-generative-reputation-management-in-the-ai-era.md). Generative reputation management
+- [Latent Narrative Optimization](./blog/latent-narrative-optimization-the-new-frontier-of-ai-brand-management.md). AI brand management in generative search
+- [Correcting Brand Hallucinations](./blog/ai-narrative-intelligence-correcting-brand-hallucinations-and-negative-biases.md). Fix AI-generated misinformation
+- [Benchmarking Brand Narrative Across LLMs](./blog/benchmarking-brand-narrative-quantifying-narrative-drift-and-latent-persona-across-llms.md). Quantify narrative drift across models
+- [The Algorithmic Reputation Audit](./blog/the-algorithmic-reputation-audit-navigating-generative-reputation-management-in-the-ai-era.md). Generative reputation management
 
 ### Google AI Overviews
-- [The AIO Cannibalization Audit](./articles/beyond-information-the-google-ai-overviews-cannibalization-audit-for-seo-directors.md). Audit traffic cannibalization from AI Overviews
-- [The AIO Click-Stealing Framework](./articles/beyond-visibility-the-aio-click-stealing-framework-for-modern-seos.md). Modern SEO when AIO dominates
+- [The AIO Cannibalization Audit](./blog/beyond-information-the-google-ai-overviews-cannibalization-audit-for-seo-directors.md). Audit traffic cannibalization from AI Overviews
+- [The AIO Click-Stealing Framework](./blog/beyond-visibility-the-aio-click-stealing-framework-for-modern-seos.md). Modern SEO when AIO dominates
 
 ### Technical Implementation
-- [The Website-as-an-API](./articles/the-website-as-an-api-a-technical-guide-to-geo-and-ai-native-content-architecture.md). AI-native content architecture
-- [The Narrative Guardian](./articles/the-narrative-guardian-shifting-from-ai-production-to-ai-governance-and-aeo.md). AI governance and Answer Engine Optimization
+- [The Website-as-an-API](./blog/the-website-as-an-api-a-technical-guide-to-geo-and-ai-native-content-architecture.md). AI-native content architecture
+- [The Narrative Guardian](./blog/the-narrative-guardian-shifting-from-ai-production-to-ai-governance-and-aeo.md). AI governance and Answer Engine Optimization
 
 ### Industry Guides
-- [AI Search for Local Businesses](./articles/ai-search-optimization-for-local-businesses-a-region-specific-guide.md). Region-specific local visibility
-- [AI Search Impact on E-commerce](./articles/the-impact-of-ai-search-on-e-commerce-sales-navigating-brand-visibility-and-consumer-trust.md). Brand visibility and consumer trust
-- [Profit-First B2B Keyword Research](./articles/beyond-search-volume-the-profit-first-guide-to-b2b-keyword-research.md). Align keywords with revenue
+- [AI Search for Local Businesses](./blog/ai-search-optimization-for-local-businesses-a-region-specific-guide.md). Region-specific local visibility
+- [AI Search Impact on E-commerce](./blog/the-impact-of-ai-search-on-e-commerce-sales-navigating-brand-visibility-and-consumer-trust.md). Brand visibility and consumer trust
+- [Profit-First B2B Keyword Research](./blog/beyond-search-volume-the-profit-first-guide-to-b2b-keyword-research.md). Align keywords with revenue
 
 ### Strategy & Intelligence
-- [Predictive Competitor Analysis](./articles/beyond-static-benchmarking-the-predictive-intelligence-framework-for-competitor-analysis.md). Move from reactive to predictive
-- [The Executive Guide to Marketing ROI](./articles/the-executive-guide-to-marketing-roi-bridging-the-gap-between-channel-metrics-and-boardroom-value.md). Bridge metrics to boardroom value
-- [Monitoring Brand Mentions in AI](./articles/your-guide-to-monitoring-brand-mentions-across-ai-platforms.md). Track your brand across AI platforms
+- [Predictive Competitor Analysis](./blog/beyond-static-benchmarking-the-predictive-intelligence-framework-for-competitor-analysis.md). Move from reactive to predictive
+- [The Executive Guide to Marketing ROI](./blog/the-executive-guide-to-marketing-roi-bridging-the-gap-between-channel-metrics-and-boardroom-value.md). Bridge metrics to boardroom value
+- [Monitoring Brand Mentions in AI](./blog/your-guide-to-monitoring-brand-mentions-across-ai-platforms.md). Track your brand across AI platforms
 
 ---
 
@@ -114,7 +114,7 @@ Generative Engine Optimization (GEO) is the discipline of optimizing your brand'
 
 To add a new article:
 
-1. Create a new `.md` file in the `articles/` directory
+1. Create a new `.md` file in the `blog/` directory
 2. Include frontmatter with `title`, `description`, and `tags`
 3. Update this README and `index.md` with the new article
 

@@ -53,7 +53,7 @@ defaults:
     values:
       image: /assets/images/netranks-logo.png
   - scope:
-      path: "articles"
+      path: "blog"
     values:
       layout: article
       image: /assets/images/netranks-logo.png
