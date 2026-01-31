@@ -39,7 +39,7 @@ AI search is replacing traditional search. When users ask ChatGPT *"what's the b
 
 ---
 
-# NetRanks Blog
+# [NetRanks Blog](/blog/)
 
 Expert guides and research on AI Search Optimization and Generative Engine Optimization (GEO). Learn how to make your brand visible when AI answers the questions that matter to your business.
 
