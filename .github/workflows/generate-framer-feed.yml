@@ -6,6 +6,9 @@ on:
       - 'blog/**'
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   generate-feed:
     runs-on: ubuntu-latest
