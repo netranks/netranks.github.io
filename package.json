@@ -1,0 +1,7 @@
+{
+  "name": "ai-search-visibility-articles",
+  "private": true,
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
