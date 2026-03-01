@@ -2,8 +2,8 @@
 layout: article
 title: "Solving Regionality Hallucination: The Serviceable Area Authority Framework for Telecom GEO"
 description: "Fix AI coverage errors with the Serviceable Area Authority framework. Optimize your ISP for ChatGPT and Gemini to ensure accurate local recommendations."
-date: 2026-02-13
-last_modified_at: 2026-02-13
+date: 2026-02-11
+last_modified_at: 2026-02-11
 tags: ["Telecom", "GEO", "AI Marketing", "SEO Strategy", "Broadband"]
 ---
 

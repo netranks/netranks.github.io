@@ -2,8 +2,8 @@
 layout: article
 title: "Optimizing for the SearchGPT Rollout: A Strategic Framework for Brand Citations"
 description: "Learn how to secure primary citation status in SearchGPT's UI. A technical blueprint for brand managers and SEOs to engineer content for sidebar visibility and source authority."
-date: 2026-01-27
-last_modified_at: 2026-01-27
+date: 2026-01-24
+last_modified_at: 2026-01-24
 tags: ["SearchGPT", "OpenAI", "GEO", "Brand Citations", "Technical SEO", "AI Search", "Generative Engine Optimization", "Source Authority"]
 ---
 

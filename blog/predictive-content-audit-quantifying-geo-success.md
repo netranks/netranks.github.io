@@ -2,8 +2,8 @@
 layout: article
 title: "The Predictive Content Audit: Quantifying GEO Success Before the Crawl"
 description: "Learn how to use proxy-retrieval simulations and predictive audits to secure AI citations before your content is even indexed by generative engines."
-date: 2026-01-27
-last_modified_at: 2026-01-27
+date: 2026-01-28
+last_modified_at: 2026-01-28
 tags: ["Content Strategy", "GEO", "Artificial Intelligence", "Digital Marketing", "Generative Engine Optimization", "Predictive Content Audit", "Retrieval Saliency", "AI Share of Voice", "Semantic Density", "LLM Citation"]
 ---
 

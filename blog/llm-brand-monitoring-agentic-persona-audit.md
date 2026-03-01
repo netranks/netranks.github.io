@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Vanity Mentions: Mastering LLM Brand Monitoring and the Agentic Persona Audit"
 description: "Master LLM brand monitoring. Learn how to track mentions in ChatGPT and Perplexity using the Agentic Persona Audit for actionable GEO insights."
-date: 2026-02-09
-last_modified_at: 2026-02-09
+date: 2026-02-07
+last_modified_at: 2026-02-07
 tags: ["SaaS Marketing", "AI Strategy", "Growth Operations"]
 ---
 

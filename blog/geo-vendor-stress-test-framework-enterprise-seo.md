@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Share of Voice: The GEO Vendor Stress-Test Framework for Enterprise SEO"
 description: "Compare GEO tools using the Stress-Test Framework. Learn how to solve LLM stochasticity and the attribution gap for enterprise AI search visibility."
-date: 2026-01-27
-last_modified_at: 2026-01-27
+date: 2026-01-25
+last_modified_at: 2026-01-25
 tags: ["SEO", "Artificial Intelligence", "Marketing Strategy", "Enterprise Tech", "Generative Engine Optimization", "GEO Tools Comparison", "AI Search Visibility", "SGE Tracking", "LLM Stochasticity", "AI Share of Voice", "Enterprise SEO"]
 ---
 

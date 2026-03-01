@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond SEO: Implementing the Golden Record Strategy for AI Banking Visibility"
 description: "Learn the Golden Record Strategy for banking GEO. Protect your brand from AI hallucinations and master Attribution Defense for financial products."
-date: 2026-02-02
-last_modified_at: 2026-02-02
+date: 2026-02-04
+last_modified_at: 2026-02-04
 tags: ["Banking", "Fintech", "AI Strategy", "Compliance", "Digital Marketing"]
 ---
 

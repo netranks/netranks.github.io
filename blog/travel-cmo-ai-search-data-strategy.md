@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond the Booking Button: Why Travel CMOs Must Become Chief Data Architects for AI Search"
 description: "Learn how travel CMOs can shift from SEO to GEO by mastering the data supply chain and building Knowledge Graphs to capture AI Share-of-Voice."
-date: 2026-02-14
-last_modified_at: 2026-02-14
+date: 2026-02-16
+last_modified_at: 2026-02-16
 tags: ["Travel Technology", "AI Strategy", "Data Governance", "Digital Marketing"]
 ---
 

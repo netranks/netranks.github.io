@@ -2,8 +2,8 @@
 layout: article
 title: "Fintech AI Brand Monitoring: Why Startups Must Move From Marketing Visibility to Defensive Compliance"
 description: "Learn why fintech startups need defensive AI brand monitoring and hallucination logging to mitigate regulatory risks from AI models like ChatGPT and Claude."
-date: 2026-02-02
-last_modified_at: 2026-02-02
+date: 2026-02-01
+last_modified_at: 2026-02-01
 tags: ["Fintech", "AI Compliance", "GEO", "Brand Protection"]
 ---
 

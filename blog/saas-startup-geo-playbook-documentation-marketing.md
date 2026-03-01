@@ -2,8 +2,8 @@
 layout: article
 title: "The SaaS Startup Playbook for GEO: Why Technical Documentation is Your New Marketing Engine"
 description: "Learn how SaaS startups can win in AI search by treating documentation as marketing through Generative Engine Optimization (GEO) strategies and semantic seeding."
-date: 2026-02-09
-last_modified_at: 2026-02-09
+date: 2026-02-05
+last_modified_at: 2026-02-05
 tags: ["SaaS Growth", "AI Strategy", "Technical SEO", "Product Marketing"]
 ---
 
