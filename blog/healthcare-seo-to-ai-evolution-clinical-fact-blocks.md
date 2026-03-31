@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Keywords: Mastering the Healthcare Evolution from SEO to Generative AI Optimization"
 description: "Learn how healthcare brands are moving from traditional SEO to Generative Engine Optimization using the Clinical Fact-Block Framework for AI visibility."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-08
+last_modified_at: 2026-03-08
 tags: ["Healthcare Marketing", "AI Visibility", "GEO", "Digital Strategy"]
 ---
 

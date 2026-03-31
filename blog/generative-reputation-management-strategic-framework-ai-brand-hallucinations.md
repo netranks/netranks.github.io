@@ -2,8 +2,8 @@
 layout: article
 title: "Generative Reputation Management (GRM): A Strategic Framework for Resolving AI Brand Hallucinations"
 description: "Learn how to resolve AI brand hallucinations through RAG forensics and narrative remediation. A strategic GRM guide for PR directors and brand managers."
-date: 2026-01-26
-last_modified_at: 2026-01-26
+date: 2026-02-03
+last_modified_at: 2026-02-03
 tags: ["Brand Management", "Artificial Intelligence", "PR Strategy", "Crisis Communications", "Generative Reputation Management", "GRM", "AI Brand Hallucinations", "RAG Forensics", "Linguistic Overwriting", "Brand Safety", "AI Reputation Management"]
 ---
 

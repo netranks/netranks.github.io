@@ -2,8 +2,8 @@
 layout: article
 title: "The Semantic Spec Sheet Strategy: How CPG Brands Win in the Age of Generative Engine Optimization (GEO)"
 description: "Learn how to bridge the gap between PIM systems and AI context windows using the Semantic Spec Sheet strategy for Household and CPG brands."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-05
+last_modified_at: 2026-03-05
 tags: ["GEO", "Digital Marketing", "CPG", "AI Strategy"]
 ---
 

@@ -2,8 +2,8 @@
 layout: article
 title: "The Executive Guide to Share of Model (SOM): Calculating the Economic Value of a Citation"
 description: "Move beyond basic AI tracking. Learn how to calculate the Economic Value of a Citation (EVC) and justify your GEO budget with our executive reporting framework."
-date: 2026-03-19
-last_modified_at: 2026-03-19
+date: 2026-03-16
+last_modified_at: 2026-03-16
 tags: ["Digital Strategy", "AI Marketing", "GEO", "Executive Leadership"]
 ---
 

@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond Search Rankings: How Healthcare Brands Use GEO to Secure AI Citations"
 description: "Learn how healthcare brands can master Generative Engine Optimization (GEO) using the Verified Authority Anchor framework to ensure accurate AI citations."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-04
+last_modified_at: 2026-03-04
 tags: ["Healthcare", "GEO", "Pharma Marketing", "AI Strategy"]
 ---
 

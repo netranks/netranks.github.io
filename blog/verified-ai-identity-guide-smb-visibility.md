@@ -2,8 +2,8 @@
 layout: article
 title: "Mastering the Verified AI Identity: A Small Business Guide to AI Visibility and Accuracy"
 description: "Learn how to fix AI hallucinations and ensure ChatGPT recommends your small business accurately using the Verified AI Identity framework."
-date: 2026-03-23
-last_modified_at: 2026-03-23
+date: 2026-03-22
+last_modified_at: 2026-03-22
 tags: ["Small Business", "AI Marketing", "SEO", "Brand Safety"]
 ---
 

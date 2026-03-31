@@ -2,8 +2,8 @@
 layout: article
 title: "GEO vs SEO: Mastering the Atomic Content Framework for High Visibility in 2026"
 description: "Learn how to use the Atomic Content Framework to rank on Google (SEO) and get cited by AI engines like ChatGPT (GEO) with this comprehensive 2026 guide."
-date: 2026-03-12
-last_modified_at: 2026-03-12
+date: 2026-03-14
+last_modified_at: 2026-03-14
 tags: ["Digital Marketing", "AI Search", "Content Strategy", "SEO"]
 ---
 

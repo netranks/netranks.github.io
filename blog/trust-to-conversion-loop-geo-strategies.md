@@ -2,8 +2,8 @@
 layout: article
 title: "The Trust-to-Conversion Loop: Mastering BOFU Strategies for Generative Engine Optimization"
 description: "Master the Trust-to-Conversion loop for GEO. Learn how to secure B2B brand recommendations in ChatGPT and Perplexity with actionable bottom-of-funnel strategies."
-date: 2026-03-25
-last_modified_at: 2026-03-25
+date: 2026-03-24
+last_modified_at: 2026-03-24
 tags: ["Marketing Strategy", "AI and SEO", "SaaS Growth", "Digital Transformation"]
 ---
 

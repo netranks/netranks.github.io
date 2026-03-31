@@ -2,8 +2,8 @@
 layout: article
 title: "Top Marketing Podcasts for the AI and GEO Era: Mastering Share of Model for 2025"
 description: "Discover the top podcasts for mastering Generative Engine Optimization (GEO). Move beyond SEO to win Share of Model in ChatGPT, Perplexity, and Gemini."
-date: 2026-03-19
-last_modified_at: 2026-03-19
+date: 2026-03-15
+last_modified_at: 2026-03-15
 tags: ["AI Marketing", "SEO", "Digital Strategy", "Generative AI"]
 ---
 

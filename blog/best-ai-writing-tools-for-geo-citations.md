@@ -2,8 +2,8 @@
 layout: article
 title: "Best AI Writing Tools for Marketers: How to Write Content That Gets Cited in 2025"
 description: "Learn how to use AI writing tools like Jasper and Claude to get cited by ChatGPT and Perplexity. Master the Source-First Content Factory and GEO strategies."
-date: 2026-03-20
-last_modified_at: 2026-03-20
+date: 2026-03-17
+last_modified_at: 2026-03-17
 tags: ["AI Marketing", "SEO", "GEO", "Content Strategy"]
 ---
 

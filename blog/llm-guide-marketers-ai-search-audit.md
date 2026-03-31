@@ -2,8 +2,8 @@
 layout: article
 title: "What is an LLM? The Marketer's Guide to AI Search and the Two-Hemisphere Brand Audit"
 description: "Learn how LLMs process brand data through training and RAG. Master the Two-Hemisphere Audit to boost your AI visibility and Generative Engine Optimization."
-date: 2026-03-20
-last_modified_at: 2026-03-20
+date: 2026-03-21
+last_modified_at: 2026-03-21
 tags: ["AI Marketing", "SEO", "Digital Strategy", "Generative AI"]
 ---
 

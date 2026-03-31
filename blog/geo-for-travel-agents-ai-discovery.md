@@ -2,8 +2,8 @@
 layout: article
 title: "GEO for Travel Agents: Winning the AI Discovery War and Bypassing OTA Dominance"
 description: "Learn how travel agents can use Generative Engine Optimization (GEO) to bypass OTAs and get cited by AI models like ChatGPT and Gemini."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-07
+last_modified_at: 2026-03-07
 tags: ["Travel Technology", "AI Visibility", "Digital Marketing", "SEO"]
 ---
 

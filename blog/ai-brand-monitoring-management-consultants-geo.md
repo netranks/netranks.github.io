@@ -2,8 +2,8 @@
 layout: article
 title: "Safeguarding Methodological Integrity: AI Brand Monitoring for Management Consultants"
 description: "Learn how management consultants can protect proprietary frameworks and audit intellectual property in AI models like ChatGPT and Perplexity using GEO strategies."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-03
+last_modified_at: 2026-03-03
 tags: ["Management Consulting", "GEO", "Intellectual Property", "AI Reputation Management"]
 ---
 

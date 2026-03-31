@@ -2,8 +2,8 @@
 layout: article
 title: "Digital Marketing 2026: Navigating the Shift from Clicks to AI Citations"
 description: "Learn how to master Generative Engine Optimization (GEO), the Vector Authority Audit, and Synthetic Attribution in the 2026 AI-driven marketing landscape."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-06
+last_modified_at: 2026-03-06
 tags: ["AI Marketing", "GEO", "Digital Strategy", "Marketing Analytics"]
 ---
 

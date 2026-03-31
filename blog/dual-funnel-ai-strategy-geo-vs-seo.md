@@ -2,8 +2,8 @@
 layout: article
 title: "The Dual-Funnel Survival Framework: Balancing AI Extraction with Website Retention"
 description: "Learn how to balance AI visibility (GEO) with website traffic using the Dual-Funnel Framework. Optimize for ChatGPT and Perplexity without losing clicks."
-date: 2026-03-20
-last_modified_at: 2026-03-20
+date: 2026-03-18
+last_modified_at: 2026-03-18
 tags: ["Digital Strategy", "AI Marketing", "SEO"]
 ---
 

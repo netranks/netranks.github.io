@@ -2,8 +2,8 @@
 layout: article
 title: "What is Semantic SEO? The Foundation of AI Search Visibility and LLM Seeding"
 description: "Learn how Semantic SEO and GEO help your brand get cited by AI models like ChatGPT. Move beyond keywords to build AI search visibility."
-date: 2026-03-29
-last_modified_at: 2026-03-29
+date: 2026-03-27
+last_modified_at: 2026-03-27
 tags: ["SEO", "AI Marketing", "Content Strategy"]
 ---
 

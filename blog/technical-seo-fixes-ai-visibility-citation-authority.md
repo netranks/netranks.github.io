@@ -2,8 +2,8 @@
 layout: article
 title: "10 Technical SEO Fixes for AI Visibility & Citation Authority"
 description: "Learn 10 technical SEO fixes to boost AI visibility. Move beyond Google rankings to master GEO, RAG-ready architecture, and citation authority for LLMs."
-date: 2026-03-30
-last_modified_at: 2026-03-30
+date: 2026-03-26
+last_modified_at: 2026-03-26
 tags: ["SEO", "Artificial Intelligence", "Technical Marketing", "Growth Strategy"]
 ---
 

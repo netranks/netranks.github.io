@@ -2,8 +2,8 @@
 layout: article
 title: "Beyond the Blue Link: The Rise of Inference-First SEO and Brand Citation Optimization"
 description: "Learn how to optimize for AI engines using Brand Citation Optimization and an Inference-First SEO strategy to increase your Share of Model visibility."
-date: 2026-03-13
-last_modified_at: 2026-03-13
+date: 2026-03-09
+last_modified_at: 2026-03-09
 tags: ["AI Visibility", "Digital Strategy", "Enterprise SEO", "GEO"]
 ---
 
